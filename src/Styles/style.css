@@ -12,3 +12,9 @@
 .error {
     background: red;
 }
+
+#submit:hover {
+    background: green;
+    color: white;
+    font-size: 19px;
+}

@@ -15,9 +15,38 @@
     <div class="container">
         <h1>Add Book</h1>
         <form id="book-form">
-
+            <div>
+                <label for="title">Book Title</label>
+                <input type="text" name="" id="text" class="u-full-width">
+            </div>
+            <div>
+                <label for="author">Book Author</label>
+                <input type="text" name="" id="author" class="u-full-width">
+            </div>
+            <div>
+                <label for="isbn">ISBN (International Standart Book Number)</label>
+                <input type="text" name="" id="isbn" class="u-full-width">
+            </div>
+            <div>
+                <input id="submit" type="submit" value="submit" class="u-full-width">
+            </div>
         </form>
+
+        <table class="u-full-width">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>ISBN</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody id="book-list">
+
+            </tbody>
+        </table>
     </div>
+    <script src="./JavaScript/app.js"></script>
 </body>
 
 </html>
