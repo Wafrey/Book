@@ -1,9 +1,9 @@
-# [Simple-Messenger click to see it](https://wafrey.github.io/PulseFitness/)
-This is free messenger, feel free to try it!
+# [Book click to see it](https://wafrey.github.io/Book/)
+Book list, feel free to try it!
 
-![Pulse Fitness Logo](https://tinyurl.com/y5xrhjlx)
+![Book Logo](https://tinyurl.com/y5f7waf5)
 
-  <h3 align="center">Messenger</h3>
+  <h3 align="center">Book</h3>
 
 ### Built With
 
@@ -15,7 +15,7 @@ This is free messenger, feel free to try it!
 
 Georgi Dimitrov - [https://www.linkedin.com/in/wafrey/](https://www.linkedin.com/in/wafrey/w) - g.dimitrovtech@gmail.com
 
-Project Link: [https://github.com/Wafrey/simple-messenger](https://github.com/Wafrey/PulseFitness)
+Project Link: [https://github.com/Wafrey/Book](https://github.com/Wafrey/Book)
 
 ## Acknowledgements
 
